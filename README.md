@@ -21,20 +21,22 @@ Division
 
 Main Screen
 
-![image](https://github.com/ERJ00/Arithmetic-Game/assets/130026817/17affbbb-74fc-4b2f-a7fe-6c6091a0b04e)
+![image](https://github.com/ERJ00/Arithmetic-Game/assets/130026817/3d6178e6-62f4-4165-807d-d75122d6d79d)
 
 Options of Operations
 
-![image](https://github.com/ERJ00/Arithmetic-Game/assets/130026817/49197ed2-7260-4607-80fc-309e3dcb04df)
+![image](https://github.com/ERJ00/Arithmetic-Game/assets/130026817/6b396d82-4b5b-49c0-af37-bd85830c02d0)
 
 Select Level
 
-![image](https://github.com/ERJ00/Arithmetic-Game/assets/130026817/cd2162ff-d83f-4a9d-adce-29937bd042c2)
+![image](https://github.com/ERJ00/Arithmetic-Game/assets/130026817/6714299f-a37c-4307-b22d-5a68242d49cc)
+
 
 Main Game
 
-![image](https://github.com/ERJ00/Arithmetic-Game/assets/130026817/c22872c5-5bd2-42a5-95c0-a1d26ba1d2c9)
+![image](https://github.com/ERJ00/Arithmetic-Game/assets/130026817/467513a4-76ab-4497-987f-570cb4bc6984)
 
 Display the score after the time is up
 
-![image](https://github.com/ERJ00/Arithmetic-Game/assets/130026817/b83d037e-76f1-4084-b20b-2a041c6c5b5c)
+![image](https://github.com/ERJ00/Arithmetic-Game/assets/130026817/6c74f178-ef1a-4d7c-b1f0-d567d2e82ddd)
+
