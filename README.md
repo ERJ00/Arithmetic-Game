@@ -38,5 +38,6 @@ Main Game
 
 Display the score after the time is up
 
-![image](https://github.com/ERJ00/Arithmetic-Game/assets/130026817/6c74f178-ef1a-4d7c-b1f0-d567d2e82ddd)
+![image](https://github.com/ERJ00/Arithmetic-Game/assets/130026817/6cf3f1af-aa5a-4bde-bfba-679b78956206)
+
 
